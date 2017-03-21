@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="STS"
+  id="myeclipse.1489049551103"
+  context-root="/project"
+  j2ee-spec="6.0"
+  archive="STS.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
